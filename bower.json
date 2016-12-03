@@ -1,0 +1,22 @@
+{
+  "name": "presentation",
+  "authors": [
+    "MatthewCoupal <coupal.matthew@gmail.com>"
+  ],
+  "description": "presentation slides for ACM",
+  "main": "",
+  "license": "MIT",
+  "homepage": "www.potsdamacm.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "reveal.js": "^3.3.0",
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}
